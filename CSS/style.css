@@ -1,0 +1,64 @@
+#searchnow{
+  float: right;
+}
+#searchtext{
+    width: 70%;
+}
+#DeleteData{
+    visibility: hidden;
+}
+#CopyData{
+  visibility: hidden;
+}
+#exampleInputEmail1{
+  width: 98%;
+  margin-left: 1%;
+}
+#exampleInputPassword1{
+  width: 98%;
+  margin-left: 1%;
+}
+#result{
+  visibility: hidden;
+  overflow-y: auto;
+}
+
+#submitdata{
+  position: relative;
+  left: 40%;
+}
+
+#navbar{
+  position: fixed;
+  /* top: 2px; */
+  width: 100%;
+}
+
+#footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
+  flex-direction: column;
+}
+#time{
+  text-align: left;
+}
+#tagline{
+  margin-top: 1vh;
+  font-style: italic;
+}
+body{
+  background-color: rgb(255, 255, 255);
+}
+#version{
+  font-family: 'Courier New', Courier, monospace;
+  font-style: italic;
+  font-size: smaller;
+  font-weight: bold;
+}
+@media (max-width:717px) {
+  #modechanger{
+    margin-bottom: 2vh;
+  }
+}
