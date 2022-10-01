@@ -36,5 +36,5 @@ To deploy this project use this steps
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[GPL-3.0 license](https://choosealicense.com/licenses/GPL/)
 
