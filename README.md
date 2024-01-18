@@ -1,5 +1,5 @@
 
-# NoteTaker
+# NoteTaker (Offline)
 
 Take Offile note &amp; save it for later
 
