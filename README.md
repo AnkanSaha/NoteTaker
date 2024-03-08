@@ -14,6 +14,8 @@ Take Offile note &amp; save it for later
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/AnkanSaha/NoteTaker/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/AnkanSaha/NoteTaker/tree/main)
+
 
 ## Deployment
 
